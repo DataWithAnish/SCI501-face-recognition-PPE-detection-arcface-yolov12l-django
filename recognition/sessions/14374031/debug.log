@@ -1,0 +1,556 @@
+DEBUG LOG OPENED → /Users/anishkumarshrestha/Desktop/PIE detector/SCI501/recognition/sessions/14374031/debug.log
+[Frame 0] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 0] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 0] processed | faces=1 known=1 unknown=0
+[Frame 1] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 1] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 1] processed | faces=1 known=1 unknown=0
+[Frame 2] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 2] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 2] processed | faces=1 known=1 unknown=0
+[Frame 3] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 3] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 3] processed | faces=1 known=1 unknown=0
+[Frame 4] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 4] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 4] processed | faces=1 known=1 unknown=0
+[Frame 5] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 5] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 5] processed | faces=1 known=1 unknown=0
+[Frame 6] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 6] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 6] processed | faces=1 known=1 unknown=0
+[Frame 7] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 7] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 7] processed | faces=1 known=1 unknown=0
+[Frame 8] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 8] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 8] processed | faces=1 known=1 unknown=0
+[Frame 9] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 9] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 9] processed | faces=1 known=1 unknown=0
+[Frame 10] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 10] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 10] processed | faces=1 known=1 unknown=0
+[Frame 11] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 11] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 11] processed | faces=1 known=1 unknown=0
+[Frame 12] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 12] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 12] processed | faces=1 known=1 unknown=0
+[Frame 13] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 13] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 13] processed | faces=1 known=1 unknown=0
+[Frame 14] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 14] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 14] processed | faces=1 known=1 unknown=0
+[Frame 15] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 15] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 15] processed | faces=1 known=1 unknown=0
+[Frame 16] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 16] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 16] processed | faces=1 known=1 unknown=0
+[Frame 17] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 17] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 17] processed | faces=1 known=1 unknown=0
+[Frame 18] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 18] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 18] processed | faces=1 known=1 unknown=0
+[Frame 19] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 19] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 19] processed | faces=1 known=1 unknown=0
+[Frame 20] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 20] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 20] processed | faces=1 known=1 unknown=0
+[Frame 21] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 21] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 21] processed | faces=1 known=1 unknown=0
+[Frame 22] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 22] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 22] processed | faces=1 known=1 unknown=0
+[Frame 23] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 23] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 23] processed | faces=1 known=1 unknown=0
+[Frame 24] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 24] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 24] processed | faces=1 known=1 unknown=0
+[Frame 25] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 25] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 25] processed | faces=1 known=1 unknown=0
+[Frame 26] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 26] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 26] processed | faces=1 known=1 unknown=0
+[Frame 27] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 27] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 27] processed | faces=1 known=1 unknown=0
+[Frame 28] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 28] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 28] processed | faces=1 known=1 unknown=0
+[Frame 29] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 29] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 29] processed | faces=1 known=1 unknown=0
+[Frame 30] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 30] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 30] processed | faces=1 known=1 unknown=0
+[Frame 31] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 31] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 31] processed | faces=1 known=1 unknown=0
+[Frame 32] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 32] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 32] processed | faces=1 known=1 unknown=0
+[Frame 33] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 33] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 33] processed | faces=1 known=1 unknown=0
+[Frame 34] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 34] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 34] processed | faces=1 known=1 unknown=0
+[Frame 35] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 35] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 35] processed | faces=1 known=1 unknown=0
+[Frame 36] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 36] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 36] processed | faces=1 known=1 unknown=0
+[Frame 37] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 37] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 37] processed | faces=1 known=1 unknown=0
+[Frame 38] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 38] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 38] processed | faces=1 known=1 unknown=0
+[Frame 39] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 39] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 39] processed | faces=1 known=1 unknown=0
+[Frame 40] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 40] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 40] processed | faces=1 known=1 unknown=0
+[Frame 41] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 41] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 41] processed | faces=1 known=1 unknown=0
+[Frame 42] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 42] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 42] processed | faces=1 known=1 unknown=0
+[Frame 43] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 43] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 43] processed | faces=1 known=1 unknown=0
+[Frame 44] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 44] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 44] processed | faces=1 known=1 unknown=0
+[Frame 45] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 45] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 45] processed | faces=1 known=1 unknown=0
+[Frame 46] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 46] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 46] processed | faces=1 known=1 unknown=0
+[Frame 47] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 47] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 47] processed | faces=1 known=1 unknown=0
+[Frame 48] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 48] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 48] processed | faces=1 known=1 unknown=0
+[Frame 49] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 49] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 49] processed | faces=1 known=1 unknown=0
+[Frame 50] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 50] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 50] processed | faces=1 known=1 unknown=0
+[Frame 51] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 51] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 51] processed | faces=1 known=1 unknown=0
+[Frame 52] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 52] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 52] processed | faces=1 known=1 unknown=0
+[Frame 53] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 53] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 53] processed | faces=1 known=1 unknown=0
+[Frame 54] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 54] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 54] processed | faces=1 known=1 unknown=0
+[Frame 55] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 55] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 55] processed | faces=1 known=1 unknown=0
+[Frame 56] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 56] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 56] processed | faces=1 known=1 unknown=0
+[Frame 57] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 57] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 57] processed | faces=1 known=1 unknown=0
+[Frame 58] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 58] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 58] processed | faces=1 known=1 unknown=0
+[Frame 59] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 59] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 59] processed | faces=1 known=1 unknown=0
+[Frame 60] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 60] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 60] processed | faces=1 known=1 unknown=0
+[Frame 61] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 61] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 61] processed | faces=1 known=1 unknown=0
+[Frame 62] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 62] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 62] processed | faces=1 known=1 unknown=0
+[Frame 63] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 63] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 63] processed | faces=1 known=1 unknown=0
+[Frame 64] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 64] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 64] processed | faces=1 known=1 unknown=0
+[Frame 65] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 65] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 65] processed | faces=1 known=1 unknown=0
+[Frame 66] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 66] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 66] processed | faces=1 known=1 unknown=0
+[Frame 67] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 67] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 67] processed | faces=1 known=1 unknown=0
+[Frame 68] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 68] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 68] processed | faces=1 known=1 unknown=0
+[Frame 69] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 69] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 69] processed | faces=1 known=1 unknown=0
+[Frame 70] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 70] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 70] processed | faces=1 known=1 unknown=0
+[Frame 71] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 71] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 71] processed | faces=1 known=1 unknown=0
+[Frame 72] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 72] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 72] processed | faces=1 known=1 unknown=0
+[Frame 73] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 73] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 73] processed | faces=1 known=1 unknown=0
+[Frame 74] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 74] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 74] processed | faces=1 known=1 unknown=0
+[Frame 75] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 75] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 75] processed | faces=1 known=1 unknown=0
+[Frame 76] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 76] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 76] processed | faces=1 known=1 unknown=0
+[Frame 77] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 77] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 77] processed | faces=1 known=1 unknown=0
+[Frame 78] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 78] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 78] processed | faces=1 known=1 unknown=0
+[Frame 79] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 79] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 79] processed | faces=1 known=1 unknown=0
+[Frame 80] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 80] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 80] processed | faces=1 known=1 unknown=0
+[Frame 81] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 81] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 81] processed | faces=1 known=1 unknown=0
+[Frame 82] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 82] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 82] processed | faces=1 known=1 unknown=0
+[Frame 83] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 83] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 83] processed | faces=1 known=1 unknown=0
+[Frame 84] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 84] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 84] processed | faces=1 known=1 unknown=0
+[Frame 85] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 85] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 85] processed | faces=1 known=1 unknown=0
+[Frame 86] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 86] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 86] processed | faces=1 known=1 unknown=0
+[Frame 87] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 87] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 87] processed | faces=1 known=1 unknown=0
+[Frame 88] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 88] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 88] processed | faces=1 known=1 unknown=0
+[Frame 89] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 89] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 89] processed | faces=1 known=1 unknown=0
+[Frame 90] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 90] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 90] processed | faces=1 known=1 unknown=0
+[Frame 91] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 91] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 91] processed | faces=1 known=1 unknown=0
+[Frame 92] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 92] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 92] processed | faces=1 known=1 unknown=0
+[Frame 93] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 93] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 93] processed | faces=1 known=1 unknown=0
+[Frame 94] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 94] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 94] processed | faces=1 known=1 unknown=0
+[Frame 95] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 95] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 95] processed | faces=1 known=1 unknown=0
+[Frame 96] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 96] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 96] processed | faces=1 known=1 unknown=0
+[Frame 97] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 97] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 97] processed | faces=1 known=1 unknown=0
+[Frame 98] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 98] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 98] processed | faces=1 known=1 unknown=0
+[Frame 99] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 99] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 99] processed | faces=1 known=1 unknown=0
+[Frame 100] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 100] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 100] processed | faces=1 known=1 unknown=0
+[Frame 101] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 101] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 101] processed | faces=1 known=1 unknown=0
+[Frame 102] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 102] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 102] processed | faces=1 known=1 unknown=0
+[Frame 103] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 103] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 103] processed | faces=1 known=1 unknown=0
+[Frame 104] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 104] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 104] processed | faces=1 known=1 unknown=0
+[Frame 105] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 105] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 105] processed | faces=1 known=1 unknown=0
+[Frame 106] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 106] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 106] processed | faces=1 known=1 unknown=0
+[Frame 107] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 107] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 107] processed | faces=1 known=1 unknown=0
+[Frame 108] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 108] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 108] processed | faces=1 known=1 unknown=0
+[Frame 109] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 109] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 109] processed | faces=1 known=1 unknown=0
+[Frame 110] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 110] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 110] processed | faces=1 known=1 unknown=0
+[Frame 111] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 111] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 111] processed | faces=1 known=1 unknown=0
+[Frame 112] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 112] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 112] processed | faces=1 known=1 unknown=0
+[Frame 113] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 113] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 113] processed | faces=1 known=1 unknown=0
+[Frame 114] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 114] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 114] processed | faces=1 known=1 unknown=0
+[Frame 115] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 115] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 115] processed | faces=1 known=1 unknown=0
+[Frame 116] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 116] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 116] processed | faces=1 known=1 unknown=0
+[Frame 117] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 117] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 117] processed | faces=1 known=1 unknown=0
+[Frame 118] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 118] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 118] processed | faces=1 known=1 unknown=0
+[Frame 119] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 119] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 119] processed | faces=1 known=1 unknown=0
+[Frame 120] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 120] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 120] processed | faces=1 known=1 unknown=0
+[Frame 121] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 121] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 121] processed | faces=1 known=1 unknown=0
+[Frame 122] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 122] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 122] processed | faces=1 known=1 unknown=0
+[Frame 123] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 123] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 123] processed | faces=1 known=1 unknown=0
+[Frame 124] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 124] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 124] processed | faces=1 known=1 unknown=0
+[Frame 125] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 125] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 125] processed | faces=1 known=1 unknown=0
+[Frame 126] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 126] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 126] processed | faces=1 known=1 unknown=0
+[Frame 127] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 127] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 127] processed | faces=1 known=1 unknown=0
+[Frame 128] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 128] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 128] processed | faces=1 known=1 unknown=0
+[Frame 129] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 129] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 129] processed | faces=1 known=1 unknown=0
+[Frame 130] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 130] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 130] processed | faces=1 known=1 unknown=0
+[Frame 131] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 131] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 131] processed | faces=1 known=1 unknown=0
+[Frame 132] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 132] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 132] processed | faces=1 known=1 unknown=0
+[Frame 133] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 133] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 133] processed | faces=1 known=1 unknown=0
+[Frame 134] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 134] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 134] processed | faces=1 known=1 unknown=0
+[Frame 135] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 135] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 135] processed | faces=1 known=1 unknown=0
+[Frame 136] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 136] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 136] processed | faces=1 known=1 unknown=0
+[Frame 137] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 137] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 137] processed | faces=1 known=1 unknown=0
+[Frame 138] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 138] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 138] processed | faces=1 known=1 unknown=0
+[Frame 139] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 139] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 139] processed | faces=1 known=1 unknown=0
+[Frame 140] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 140] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 140] processed | faces=1 known=1 unknown=0
+[Frame 141] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 141] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 141] processed | faces=1 known=1 unknown=0
+[Frame 142] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 142] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 142] processed | faces=1 known=1 unknown=0
+[Frame 143] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 143] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 143] processed | faces=1 known=1 unknown=0
+[Frame 144] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 144] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 144] processed | faces=1 known=1 unknown=0
+[Frame 145] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 145] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 145] processed | faces=1 known=1 unknown=0
+[Frame 146] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 146] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 146] processed | faces=1 known=1 unknown=0
+[Frame 147] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 147] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 147] processed | faces=1 known=1 unknown=0
+[Frame 148] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 148] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 148] processed | faces=1 known=1 unknown=0
+[Frame 149] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 149] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 149] processed | faces=1 known=1 unknown=0
+[Frame 150] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 150] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 150] processed | faces=1 known=1 unknown=0
+[Frame 151] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 151] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 151] processed | faces=1 known=1 unknown=0
+[Frame 152] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 152] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 152] processed | faces=1 known=1 unknown=0
+[Frame 153] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 153] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 153] processed | faces=1 known=1 unknown=0
+[Frame 154] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 154] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 154] processed | faces=1 known=1 unknown=0
+[Frame 155] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 155] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 155] processed | faces=1 known=1 unknown=0
+[Frame 156] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 156] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 156] processed | faces=1 known=1 unknown=0
+[Frame 157] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 157] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 157] processed | faces=1 known=1 unknown=0
+[Frame 158] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 158] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 158] processed | faces=1 known=1 unknown=0
+[Frame 159] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 159] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 159] processed | faces=1 known=1 unknown=0
+[Frame 160] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 160] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 160] processed | faces=1 known=1 unknown=0
+[Frame 161] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 161] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 161] processed | faces=1 known=1 unknown=0
+[Frame 162] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 162] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 162] processed | faces=1 known=1 unknown=0
+[Frame 163] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 163] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 163] processed | faces=1 known=1 unknown=0
+[Frame 164] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 164] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 164] processed | faces=1 known=1 unknown=0
+[Frame 165] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 165] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 165] processed | faces=1 known=1 unknown=0
+[Frame 166] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 166] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 166] processed | faces=1 known=1 unknown=0
+[Frame 167] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 167] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 167] processed | faces=1 known=1 unknown=0
+[Frame 168] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 168] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 168] processed | faces=1 known=1 unknown=0
+[Frame 169] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 169] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 169] processed | faces=1 known=1 unknown=0
+[Frame 170] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 170] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 170] processed | faces=1 known=1 unknown=0
+[Frame 171] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 171] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 171] processed | faces=1 known=1 unknown=0
+[Frame 172] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 172] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 172] processed | faces=1 known=1 unknown=0
+[Frame 173] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 173] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 173] processed | faces=1 known=1 unknown=0
+[Frame 174] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 174] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 174] processed | faces=1 known=1 unknown=0
+[Frame 175] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 175] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 175] processed | faces=1 known=1 unknown=0
+[Frame 176] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 176] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 176] processed | faces=1 known=1 unknown=0
+[Frame 177] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 177] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 177] processed | faces=1 known=1 unknown=0
+[Frame 178] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 178] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 178] processed | faces=1 known=1 unknown=0
+[Frame 179] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 179] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 179] processed | faces=1 known=1 unknown=0
+[Frame 180] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 180] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 180] processed | faces=1 known=1 unknown=0
+[Frame 181] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 181] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 181] processed | faces=1 known=1 unknown=0
+[Frame 182] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 182] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 182] processed | faces=1 known=1 unknown=0
+[Frame 183] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 183] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 183] processed | faces=1 known=1 unknown=0
+[Frame 184] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 184] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 184] processed | faces=1 known=1 unknown=0
