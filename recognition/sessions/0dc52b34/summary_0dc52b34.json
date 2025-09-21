@@ -1,0 +1,156 @@
+{
+  "session": {
+    "id": "0dc52b34",
+    "started_iso": "2025-09-20T04:44:26.831896",
+    "ended_iso": "2025-09-20T04:45:01.450989",
+    "duration_sec": 34.619,
+    "dir": "/Users/anishkumarshrestha/Desktop/PIE detector/SCI501/recognition/sessions/0dc52b34"
+  },
+  "totals": {
+    "frames": 193,
+    "faces_total": 351,
+    "recognized_total": 71,
+    "unknown_total": 0,
+    "recognition_rate": 0.2023,
+    "avg_conf_overall": 0.5708,
+    "per_worker": {
+      "anish": {
+        "seen": 71,
+        "recognized": 71,
+        "avg_conf": 0.5707553415231301
+      }
+    }
+  },
+  "timing_avg_ms": {
+    "arcface": 80.14,
+    "yolo": 60.63,
+    "total": 140.77,
+    "fps_avg": 7.1
+  },
+  "yolo_totals": {
+    "Hardhat": 1,
+    "NO-Mask": 15,
+    "NO-Hardhat": 24
+  },
+  "confidence_hist": {
+    "recognized": {
+      "bins": [
+        -1.0,
+        -0.9,
+        -0.8,
+        -0.7,
+        -0.6,
+        -0.5,
+        -0.3999999999999999,
+        -0.29999999999999993,
+        -0.19999999999999996,
+        -0.09999999999999998,
+        0.0,
+        0.10000000000000009,
+        0.20000000000000018,
+        0.30000000000000004,
+        0.40000000000000013,
+        0.5,
+        0.6000000000000001,
+        0.7000000000000002,
+        0.8,
+        0.9000000000000001,
+        1.0
+      ],
+      "counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        67,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    "unknown": {
+      "bins": [
+        -1.0,
+        -0.9,
+        -0.8,
+        -0.7,
+        -0.6,
+        -0.5,
+        -0.3999999999999999,
+        -0.29999999999999993,
+        -0.19999999999999996,
+        -0.09999999999999998,
+        0.0,
+        0.10000000000000009,
+        0.20000000000000018,
+        0.30000000000000004,
+        0.40000000000000013,
+        0.5,
+        0.6000000000000001,
+        0.7000000000000002,
+        0.8,
+        0.9000000000000001,
+        1.0
+      ],
+      "counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "config": {
+    "threshold": 0.35,
+    "DETECT_EVERY_N": 5,
+    "EMBED_EVERY_M": 30,
+    "YOLO_EVERY_N": 8,
+    "TRACKER_TYPE": "MOSSE",
+    "MIN_FACE_SIZE": 32,
+    "NMS_IOU_MATCH": 0.4,
+    "ARCFACE_DET_SIZE": [
+      640,
+      640
+    ],
+    "ARCFACE_THRESH": 0.5,
+    "USE_GPU_ARCFACE": false,
+    "db_num_workers": 3,
+    "db_embedding_dim": 512,
+    "yolo_model_path": "/Users/anishkumarshrestha/Desktop/PIE detector/SCI501/recognition/best.pt"
+  },
+  "files": {
+    "legacy_csv": "/Users/anishkumarshrestha/Desktop/PIE detector/SCI501/recognition/sessions/0dc52b34/face_recog_0dc52b34.csv",
+    "predictions_csv": "/Users/anishkumarshrestha/Desktop/PIE detector/SCI501/recognition/sessions/0dc52b34/predictions_0dc52b34.csv",
+    "perf_csv": "/Users/anishkumarshrestha/Desktop/PIE detector/SCI501/recognition/sessions/0dc52b34/perf_0dc52b34.csv",
+    "yolo_csv": "/Users/anishkumarshrestha/Desktop/PIE detector/SCI501/recognition/sessions/0dc52b34/yolo_0dc52b34.csv",
+    "config_json": "/Users/anishkumarshrestha/Desktop/PIE detector/SCI501/recognition/sessions/0dc52b34/config_0dc52b34.json"
+  }
+}

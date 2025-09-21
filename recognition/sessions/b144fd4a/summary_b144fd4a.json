@@ -1,0 +1,155 @@
+{
+  "session": {
+    "id": "b144fd4a",
+    "started_iso": "2025-09-14T05:52:55.560823",
+    "ended_iso": "2025-09-14T05:53:25.110966",
+    "duration_sec": 29.55,
+    "dir": "/home/ashres34/Desktop/SCI501/worker_recognition/recognition/sessions/b144fd4a"
+  },
+  "totals": {
+    "frames": 185,
+    "faces_total": 185,
+    "recognized_total": 37,
+    "unknown_total": 0,
+    "recognition_rate": 0.2,
+    "avg_conf_overall": 0.9172,
+    "per_worker": {
+      "worker1": {
+        "seen": 37,
+        "recognized": 37,
+        "avg_conf": 0.9172404263470624
+      }
+    }
+  },
+  "timing_avg_ms": {
+    "arcface": 141.78,
+    "yolo": 14.94,
+    "total": 156.72,
+    "fps_avg": 6.38
+  },
+  "yolo_totals": {
+    "Hardhat": 24,
+    "NO-Safety Vest": 24
+  },
+  "confidence_hist": {
+    "recognized": {
+      "bins": [
+        -1.0,
+        -0.9,
+        -0.8,
+        -0.7,
+        -0.6,
+        -0.5,
+        -0.3999999999999999,
+        -0.29999999999999993,
+        -0.19999999999999996,
+        -0.09999999999999998,
+        0.0,
+        0.10000000000000009,
+        0.20000000000000018,
+        0.30000000000000004,
+        0.40000000000000013,
+        0.5,
+        0.6000000000000001,
+        0.7000000000000002,
+        0.8,
+        0.9000000000000001,
+        1.0
+      ],
+      "counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        11,
+        26
+      ]
+    },
+    "unknown": {
+      "bins": [
+        -1.0,
+        -0.9,
+        -0.8,
+        -0.7,
+        -0.6,
+        -0.5,
+        -0.3999999999999999,
+        -0.29999999999999993,
+        -0.19999999999999996,
+        -0.09999999999999998,
+        0.0,
+        0.10000000000000009,
+        0.20000000000000018,
+        0.30000000000000004,
+        0.40000000000000013,
+        0.5,
+        0.6000000000000001,
+        0.7000000000000002,
+        0.8,
+        0.9000000000000001,
+        1.0
+      ],
+      "counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "config": {
+    "threshold": 0.35,
+    "DETECT_EVERY_N": 5,
+    "EMBED_EVERY_M": 30,
+    "YOLO_EVERY_N": 8,
+    "TRACKER_TYPE": "MOSSE",
+    "MIN_FACE_SIZE": 32,
+    "NMS_IOU_MATCH": 0.4,
+    "ARCFACE_DET_SIZE": [
+      640,
+      640
+    ],
+    "ARCFACE_THRESH": 0.5,
+    "USE_GPU_ARCFACE": false,
+    "db_num_workers": 1,
+    "db_embedding_dim": 512,
+    "yolo_model_path": "/home/ashres34/Desktop/SCI501/PPE_DATASET_YOLOv8_/runs/detect/yolov12-l-64-1002/weights/best.pt"
+  },
+  "files": {
+    "legacy_csv": "/home/ashres34/Desktop/SCI501/worker_recognition/recognition/sessions/b144fd4a/face_recog_b144fd4a.csv",
+    "predictions_csv": "/home/ashres34/Desktop/SCI501/worker_recognition/recognition/sessions/b144fd4a/predictions_b144fd4a.csv",
+    "perf_csv": "/home/ashres34/Desktop/SCI501/worker_recognition/recognition/sessions/b144fd4a/perf_b144fd4a.csv",
+    "yolo_csv": "/home/ashres34/Desktop/SCI501/worker_recognition/recognition/sessions/b144fd4a/yolo_b144fd4a.csv",
+    "config_json": "/home/ashres34/Desktop/SCI501/worker_recognition/recognition/sessions/b144fd4a/config_b144fd4a.json"
+  }
+}

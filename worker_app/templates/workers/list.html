@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Worker List</title>
+</head>
+<body>
+    <h1>Workers</h1>
+    <ul>
+        {% for worker in workers %}
+            <li>{{ worker.name }} ({{ worker.images.count }} images)</li>
+        {% empty %}
+            <li>No workers yet</li>
+        {% endfor %}
+    </ul>
+    <a href="{% url 'upload_worker' %}">Add Worker</a>
+</body>
+</html>

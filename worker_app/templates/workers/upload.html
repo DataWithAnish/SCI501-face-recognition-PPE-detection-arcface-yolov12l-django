@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload Worker Images</title>
+</head>
+<body>
+    <h2>Upload Worker Images</h2>
+
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+
+        <p>
+            <label for="id_name">Worker Name:</label>
+            {{ form.name }}
+        </p>
+
+        <p>
+            <label for="id_images">Select Images:</label>
+            <input type="file" name="images" id="id_images" multiple required>
+        </p>
+
+        <button type="submit">Upload</button>
+    </form>
+
+    <a href="{% url 'worker_list' %}">Back to Worker List</a>
+</body>
+</html>

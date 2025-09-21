@@ -1,0 +1,1927 @@
+DEBUG LOG OPENED → /Users/anishkumarshrestha/Desktop/PIE detector/SCI501/recognition/sessions/53dab363/debug.log
+[Frame 0] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 0] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 0] processed | faces=1 known=1 unknown=0
+[Frame 1] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 1] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 1] processed | faces=1 known=1 unknown=0
+[Frame 2] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 2] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 2] processed | faces=1 known=1 unknown=0
+[Frame 3] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 3] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 3] processed | faces=1 known=1 unknown=0
+[Frame 4] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 4] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 4] processed | faces=1 known=1 unknown=0
+[Frame 5] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 5] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 5] processed | faces=1 known=1 unknown=0
+[Frame 6] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 6] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 6] processed | faces=1 known=1 unknown=0
+[Frame 7] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 7] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 7] processed | faces=1 known=1 unknown=0
+[Frame 8] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 8] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 8] processed | faces=1 known=1 unknown=0
+[Frame 9] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 9] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 9] processed | faces=1 known=1 unknown=0
+[Frame 10] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 10] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 10] processed | faces=1 known=1 unknown=0
+[Frame 11] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 11] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 11] processed | faces=1 known=1 unknown=0
+[Frame 12] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 12] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 12] processed | faces=1 known=1 unknown=0
+[Frame 13] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 13] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 13] processed | faces=1 known=1 unknown=0
+[Frame 14] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 14] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 14] processed | faces=1 known=1 unknown=0
+[Frame 15] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 15] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 15] processed | faces=1 known=1 unknown=0
+[Frame 16] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 16] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 16] processed | faces=1 known=1 unknown=0
+[Frame 17] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 17] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 17] processed | faces=1 known=1 unknown=0
+[Frame 18] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 18] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 18] processed | faces=1 known=1 unknown=0
+[Frame 19] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 19] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 19] processed | faces=1 known=1 unknown=0
+[Frame 20] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 20] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 20] processed | faces=1 known=1 unknown=0
+[Frame 21] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 21] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 21] processed | faces=1 known=1 unknown=0
+[Frame 22] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 22] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 22] processed | faces=1 known=1 unknown=0
+[Frame 23] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 23] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 23] processed | faces=1 known=1 unknown=0
+[Frame 24] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 24] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 24] processed | faces=1 known=1 unknown=0
+[Frame 25] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 25] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 25] processed | faces=1 known=1 unknown=0
+[Frame 26] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 26] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 26] processed | faces=1 known=1 unknown=0
+[Frame 27] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 27] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 27] processed | faces=1 known=1 unknown=0
+[Frame 28] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 28] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 28] processed | faces=1 known=1 unknown=0
+[Frame 29] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 29] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 29] processed | faces=1 known=1 unknown=0
+[Frame 30] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 30] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 30] processed | faces=1 known=1 unknown=0
+[Frame 31] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 31] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 31] processed | faces=1 known=1 unknown=0
+[Frame 32] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 32] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 32] processed | faces=1 known=1 unknown=0
+[Frame 33] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 33] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 33] processed | faces=1 known=1 unknown=0
+[Frame 34] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 34] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 34] processed | faces=1 known=1 unknown=0
+[Frame 35] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 35] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 35] processed | faces=1 known=1 unknown=0
+[Frame 36] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 36] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 36] processed | faces=1 known=1 unknown=0
+[Frame 37] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 37] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 37] processed | faces=1 known=1 unknown=0
+[Frame 38] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 38] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 38] processed | faces=1 known=1 unknown=0
+[Frame 39] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 39] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 39] processed | faces=1 known=1 unknown=0
+[Frame 40] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 40] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 40] processed | faces=1 known=1 unknown=0
+[Frame 41] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 41] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 41] processed | faces=1 known=1 unknown=0
+[Frame 42] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 42] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 42] processed | faces=1 known=1 unknown=0
+[Frame 43] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 43] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 43] processed | faces=1 known=1 unknown=0
+[Frame 44] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 44] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 44] processed | faces=1 known=1 unknown=0
+[Frame 45] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 45] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 45] processed | faces=1 known=1 unknown=0
+[Frame 46] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 46] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 46] processed | faces=1 known=1 unknown=0
+[Frame 47] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 47] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 47] processed | faces=1 known=1 unknown=0
+[Frame 48] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 48] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 48] processed | faces=1 known=1 unknown=0
+[Frame 49] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 49] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 49] processed | faces=1 known=1 unknown=0
+[Frame 50] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 50] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 50] processed | faces=1 known=1 unknown=0
+[Frame 51] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 51] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 51] processed | faces=1 known=1 unknown=0
+[Frame 52] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 52] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 52] processed | faces=1 known=1 unknown=0
+[Frame 53] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 53] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 53] processed | faces=1 known=1 unknown=0
+[Frame 54] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 54] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 54] processed | faces=1 known=1 unknown=0
+[Frame 55] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 55] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 55] processed | faces=1 known=1 unknown=0
+[Frame 56] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 56] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 56] processed | faces=1 known=1 unknown=0
+[Frame 57] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 57] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 57] processed | faces=1 known=1 unknown=0
+[Frame 58] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 58] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 58] processed | faces=1 known=1 unknown=0
+[Frame 59] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 59] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 59] processed | faces=1 known=1 unknown=0
+[Frame 60] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 60] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 60] processed | faces=1 known=1 unknown=0
+[Frame 61] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 61] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 61] processed | faces=1 known=1 unknown=0
+[Frame 62] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 62] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 62] processed | faces=1 known=1 unknown=0
+[Frame 63] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 63] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 63] processed | faces=1 known=1 unknown=0
+[Frame 64] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 64] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 64] processed | faces=1 known=1 unknown=0
+[Frame 65] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 65] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 65] processed | faces=1 known=1 unknown=0
+[Frame 66] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 66] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 66] processed | faces=1 known=1 unknown=0
+[Frame 67] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 67] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 67] processed | faces=1 known=1 unknown=0
+[Frame 68] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 68] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 68] processed | faces=1 known=1 unknown=0
+[Frame 69] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 69] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 69] processed | faces=1 known=1 unknown=0
+[Frame 70] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 70] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 70] processed | faces=1 known=1 unknown=0
+[Frame 71] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 71] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 71] processed | faces=1 known=1 unknown=0
+[Frame 72] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 72] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 72] processed | faces=1 known=1 unknown=0
+[Frame 73] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 73] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 73] processed | faces=1 known=1 unknown=0
+[Frame 74] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 74] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 74] processed | faces=1 known=1 unknown=0
+[Frame 75] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 75] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 75] processed | faces=1 known=1 unknown=0
+[Frame 76] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 76] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 76] processed | faces=1 known=1 unknown=0
+[Frame 77] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 77] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 77] processed | faces=1 known=1 unknown=0
+[Frame 78] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 78] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 78] processed | faces=1 known=1 unknown=0
+[Frame 79] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 79] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 79] processed | faces=1 known=1 unknown=0
+[Frame 80] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 80] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 80] processed | faces=1 known=1 unknown=0
+[Frame 81] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 81] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 81] processed | faces=1 known=1 unknown=0
+[Frame 82] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 82] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 82] processed | faces=1 known=1 unknown=0
+[Frame 83] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 83] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 83] processed | faces=1 known=1 unknown=0
+[Frame 84] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 84] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 84] processed | faces=1 known=1 unknown=0
+[Frame 85] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 85] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 85] processed | faces=1 known=1 unknown=0
+[Frame 86] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 86] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 86] processed | faces=1 known=1 unknown=0
+[Frame 87] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 87] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 87] processed | faces=1 known=1 unknown=0
+[Frame 88] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 88] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 88] processed | faces=1 known=1 unknown=0
+[Frame 89] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 89] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 89] processed | faces=1 known=1 unknown=0
+[Frame 90] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 90] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 90] processed | faces=1 known=1 unknown=0
+[Frame 91] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 91] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 91] processed | faces=1 known=1 unknown=0
+[Frame 92] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 92] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 92] processed | faces=1 known=1 unknown=0
+[Frame 93] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 93] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 93] processed | faces=1 known=1 unknown=0
+[Frame 94] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 94] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 94] processed | faces=1 known=1 unknown=0
+[Frame 95] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 95] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 95] processed | faces=1 known=1 unknown=0
+[Frame 96] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 96] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 96] processed | faces=1 known=1 unknown=0
+[Frame 97] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 97] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 97] processed | faces=1 known=1 unknown=0
+[Frame 98] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 98] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 98] processed | faces=1 known=1 unknown=0
+[Frame 99] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 99] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 99] processed | faces=1 known=1 unknown=0
+[Frame 100] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 100] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 100] processed | faces=1 known=1 unknown=0
+[Frame 101] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 101] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 101] processed | faces=1 known=1 unknown=0
+[Frame 102] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 102] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 102] processed | faces=1 known=1 unknown=0
+[Frame 103] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 103] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 103] processed | faces=1 known=1 unknown=0
+[Frame 104] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 104] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 104] processed | faces=1 known=1 unknown=0
+[Frame 105] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 105] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 105] processed | faces=1 known=1 unknown=0
+[Frame 106] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 106] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 106] processed | faces=1 known=1 unknown=0
+[Frame 107] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 107] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 107] processed | faces=1 known=1 unknown=0
+[Frame 108] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 108] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 108] processed | faces=1 known=1 unknown=0
+[Frame 109] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 109] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 109] processed | faces=1 known=1 unknown=0
+[Frame 110] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 110] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 110] processed | faces=1 known=1 unknown=0
+[Frame 111] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 111] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 111] processed | faces=1 known=1 unknown=0
+[Frame 112] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 112] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 112] processed | faces=1 known=1 unknown=0
+[Frame 113] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 113] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 113] processed | faces=1 known=1 unknown=0
+[Frame 114] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 114] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 114] processed | faces=1 known=1 unknown=0
+[Frame 115] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 115] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 115] processed | faces=1 known=1 unknown=0
+[Frame 116] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 116] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 116] processed | faces=1 known=1 unknown=0
+[Frame 117] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 117] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 117] processed | faces=1 known=1 unknown=0
+[Frame 118] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 118] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 118] processed | faces=1 known=1 unknown=0
+[Frame 119] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 119] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 119] processed | faces=1 known=1 unknown=0
+[Frame 120] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 120] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 120] processed | faces=1 known=1 unknown=0
+[Frame 121] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 121] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 121] processed | faces=1 known=1 unknown=0
+[Frame 122] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 122] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 122] processed | faces=1 known=1 unknown=0
+[Frame 123] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 123] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 123] processed | faces=1 known=1 unknown=0
+[Frame 124] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 124] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 124] processed | faces=1 known=1 unknown=0
+[Frame 125] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 125] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 125] processed | faces=1 known=1 unknown=0
+[Frame 126] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 126] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 126] processed | faces=1 known=1 unknown=0
+[Frame 127] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 127] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 127] processed | faces=1 known=1 unknown=0
+[Frame 128] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 128] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 128] processed | faces=1 known=1 unknown=0
+[Frame 129] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 129] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 129] processed | faces=1 known=1 unknown=0
+[Frame 130] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 130] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 130] processed | faces=1 known=1 unknown=0
+[Frame 131] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 131] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 131] processed | faces=1 known=1 unknown=0
+[Frame 132] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 132] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 132] processed | faces=1 known=1 unknown=0
+[Frame 133] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 133] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 133] processed | faces=1 known=1 unknown=0
+[Frame 134] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 134] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 134] processed | faces=1 known=1 unknown=0
+[Frame 135] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 135] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 135] processed | faces=1 known=1 unknown=0
+[Frame 136] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 136] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 136] processed | faces=1 known=1 unknown=0
+[Frame 137] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 137] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 137] processed | faces=1 known=1 unknown=0
+[Frame 138] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 138] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 138] processed | faces=1 known=1 unknown=0
+[Frame 139] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 139] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 139] processed | faces=1 known=1 unknown=0
+[Frame 140] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 140] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 140] processed | faces=1 known=1 unknown=0
+[Frame 141] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 141] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 141] processed | faces=1 known=1 unknown=0
+[Frame 142] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 142] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 142] processed | faces=1 known=1 unknown=0
+[Frame 143] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 143] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 143] processed | faces=1 known=1 unknown=0
+[Frame 144] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 144] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 144] processed | faces=1 known=1 unknown=0
+[Frame 145] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 145] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 145] processed | faces=1 known=1 unknown=0
+[Frame 146] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 146] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 146] processed | faces=1 known=1 unknown=0
+[Frame 147] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 147] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 147] processed | faces=1 known=1 unknown=0
+[Frame 148] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 148] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 148] processed | faces=1 known=1 unknown=0
+[Frame 149] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 149] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 149] processed | faces=1 known=1 unknown=0
+[Frame 150] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 150] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 150] processed | faces=1 known=1 unknown=0
+[Frame 151] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 151] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 151] processed | faces=1 known=1 unknown=0
+[Frame 152] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 152] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 152] processed | faces=1 known=1 unknown=0
+[Frame 153] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 153] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 153] processed | faces=1 known=1 unknown=0
+[Frame 154] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 154] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 154] processed | faces=1 known=1 unknown=0
+[Frame 155] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 155] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 155] processed | faces=1 known=1 unknown=0
+[Frame 156] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 156] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 156] processed | faces=1 known=1 unknown=0
+[Frame 157] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 157] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 157] processed | faces=1 known=1 unknown=0
+[Frame 158] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 158] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 158] processed | faces=1 known=1 unknown=0
+[Frame 159] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 159] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 159] processed | faces=1 known=1 unknown=0
+[Frame 160] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 160] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 160] processed | faces=1 known=1 unknown=0
+[Frame 161] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 161] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 161] processed | faces=1 known=1 unknown=0
+[Frame 162] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 162] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 162] processed | faces=1 known=1 unknown=0
+[Frame 163] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 163] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 163] processed | faces=1 known=1 unknown=0
+[Frame 164] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 164] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 164] processed | faces=1 known=1 unknown=0
+[Frame 165] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 165] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 165] processed | faces=1 known=1 unknown=0
+[Frame 166] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 166] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 166] processed | faces=1 known=1 unknown=0
+[Frame 167] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 167] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 167] processed | faces=1 known=1 unknown=0
+[Frame 168] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 168] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 168] processed | faces=1 known=1 unknown=0
+[Frame 169] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 169] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 169] processed | faces=1 known=1 unknown=0
+[Frame 170] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 170] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 170] processed | faces=1 known=1 unknown=0
+[Frame 171] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 171] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 171] processed | faces=1 known=1 unknown=0
+[Frame 172] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 172] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 172] processed | faces=1 known=1 unknown=0
+[Frame 173] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 173] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 173] processed | faces=1 known=1 unknown=0
+[Frame 174] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 174] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 174] processed | faces=1 known=1 unknown=0
+[Frame 175] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 175] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 175] processed | faces=1 known=1 unknown=0
+[Frame 176] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 176] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 176] processed | faces=1 known=1 unknown=0
+[Frame 177] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 177] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 177] processed | faces=1 known=1 unknown=0
+[Frame 178] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 178] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 178] processed | faces=1 known=1 unknown=0
+[Frame 179] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 179] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 179] processed | faces=1 known=1 unknown=0
+[Frame 180] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 180] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 180] processed | faces=1 known=1 unknown=0
+[Frame 181] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 181] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 181] processed | faces=1 known=1 unknown=0
+[Frame 182] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 182] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 182] processed | faces=1 known=1 unknown=0
+[Frame 183] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 183] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 183] processed | faces=1 known=1 unknown=0
+[Frame 184] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 184] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 184] processed | faces=1 known=1 unknown=0
+[Frame 185] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 185] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 185] processed | faces=1 known=1 unknown=0
+[Frame 186] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 186] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 186] processed | faces=1 known=1 unknown=0
+[Frame 187] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 187] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 187] processed | faces=1 known=1 unknown=0
+[Frame 188] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 188] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 188] processed | faces=1 known=1 unknown=0
+[Frame 189] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 189] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 189] processed | faces=1 known=1 unknown=0
+[Frame 190] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 190] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 190] processed | faces=1 known=1 unknown=0
+[Frame 191] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 191] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 191] processed | faces=1 known=1 unknown=0
+[Frame 192] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 192] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 192] processed | faces=1 known=1 unknown=0
+[Frame 193] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 193] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 193] processed | faces=1 known=1 unknown=0
+[Frame 194] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 194] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 194] processed | faces=1 known=1 unknown=0
+[Frame 195] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 195] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 195] processed | faces=1 known=1 unknown=0
+[Frame 196] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 196] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 196] processed | faces=1 known=1 unknown=0
+[Frame 197] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 197] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 197] processed | faces=1 known=1 unknown=0
+[Frame 198] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 198] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 198] processed | faces=1 known=1 unknown=0
+[Frame 199] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 199] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 199] processed | faces=1 known=1 unknown=0
+[Frame 200] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 200] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 200] processed | faces=1 known=1 unknown=0
+[Frame 201] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 201] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 201] processed | faces=1 known=1 unknown=0
+[Frame 202] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 202] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 202] processed | faces=1 known=1 unknown=0
+[Frame 203] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 203] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 203] processed | faces=1 known=1 unknown=0
+[Frame 204] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 204] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 204] processed | faces=1 known=1 unknown=0
+[Frame 205] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 205] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 205] processed | faces=1 known=1 unknown=0
+[Frame 206] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 206] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 206] processed | faces=1 known=1 unknown=0
+[Frame 207] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 207] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 207] processed | faces=1 known=1 unknown=0
+[Frame 208] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 208] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 208] processed | faces=1 known=1 unknown=0
+[Frame 209] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 209] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 209] processed | faces=1 known=1 unknown=0
+[Frame 210] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 210] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 210] processed | faces=1 known=1 unknown=0
+[Frame 211] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 211] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 211] processed | faces=1 known=1 unknown=0
+[Frame 212] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 212] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 212] processed | faces=1 known=1 unknown=0
+[Frame 213] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 213] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 213] processed | faces=1 known=1 unknown=0
+[Frame 214] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 214] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 214] processed | faces=1 known=1 unknown=0
+[Frame 215] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 215] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 215] processed | faces=1 known=1 unknown=0
+[Frame 216] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 216] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 216] processed | faces=1 known=1 unknown=0
+[Frame 217] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 217] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 217] processed | faces=1 known=1 unknown=0
+[Frame 218] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 218] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 218] processed | faces=1 known=1 unknown=0
+[Frame 219] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 219] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 219] processed | faces=1 known=1 unknown=0
+[Frame 220] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 220] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 220] processed | faces=1 known=1 unknown=0
+[Frame 221] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 221] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 221] processed | faces=1 known=1 unknown=0
+[Frame 222] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 222] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 222] processed | faces=1 known=1 unknown=0
+[Frame 223] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 223] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 223] processed | faces=1 known=1 unknown=0
+[Frame 224] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 224] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 224] processed | faces=1 known=1 unknown=0
+[Frame 225] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 225] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 225] processed | faces=1 known=1 unknown=0
+[Frame 226] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 226] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 226] processed | faces=1 known=1 unknown=0
+[Frame 227] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 227] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 227] processed | faces=1 known=1 unknown=0
+[Frame 228] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 228] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 228] processed | faces=1 known=1 unknown=0
+[Frame 229] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 229] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 229] processed | faces=1 known=1 unknown=0
+[Frame 230] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 230] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 230] processed | faces=1 known=1 unknown=0
+[Frame 231] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 231] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 231] processed | faces=1 known=1 unknown=0
+[Frame 232] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 232] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 232] processed | faces=1 known=1 unknown=0
+[Frame 233] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 233] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 233] processed | faces=1 known=1 unknown=0
+[Frame 234] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 234] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 234] processed | faces=1 known=1 unknown=0
+[Frame 235] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 235] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 235] processed | faces=1 known=1 unknown=0
+[Frame 236] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 236] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 236] processed | faces=1 known=1 unknown=0
+[Frame 237] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 237] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 237] processed | faces=1 known=1 unknown=0
+[Frame 238] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 238] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 238] processed | faces=1 known=1 unknown=0
+[Frame 239] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 239] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 239] processed | faces=1 known=1 unknown=0
+[Frame 240] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 240] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 240] processed | faces=1 known=1 unknown=0
+[Frame 241] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 241] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 241] processed | faces=1 known=1 unknown=0
+[Frame 242] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 242] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 242] processed | faces=1 known=1 unknown=0
+[Frame 243] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 243] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 243] processed | faces=1 known=1 unknown=0
+[Frame 244] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 244] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 244] processed | faces=1 known=1 unknown=0
+[Frame 245] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 245] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 245] processed | faces=1 known=1 unknown=0
+[Frame 246] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 246] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 246] processed | faces=1 known=1 unknown=0
+[Frame 247] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 247] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 247] processed | faces=1 known=1 unknown=0
+[Frame 248] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 248] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 248] processed | faces=1 known=1 unknown=0
+[Frame 249] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 249] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 249] processed | faces=1 known=1 unknown=0
+[Frame 250] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 250] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 250] processed | faces=1 known=1 unknown=0
+[Frame 251] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 251] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 251] processed | faces=1 known=1 unknown=0
+[Frame 252] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 252] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 252] processed | faces=1 known=1 unknown=0
+[Frame 253] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 253] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 253] processed | faces=1 known=1 unknown=0
+[Frame 254] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 254] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 254] processed | faces=1 known=1 unknown=0
+[Frame 255] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 255] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 255] processed | faces=1 known=1 unknown=0
+[Frame 256] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 256] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 256] processed | faces=1 known=1 unknown=0
+[Frame 257] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 257] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 257] processed | faces=1 known=1 unknown=0
+[Frame 258] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 258] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 258] processed | faces=1 known=1 unknown=0
+[Frame 259] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 259] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 259] processed | faces=1 known=1 unknown=0
+[Frame 260] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 260] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 260] processed | faces=1 known=1 unknown=0
+[Frame 261] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 261] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 261] processed | faces=1 known=1 unknown=0
+[Frame 262] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 262] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 262] processed | faces=1 known=1 unknown=0
+[Frame 263] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 263] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 263] processed | faces=1 known=1 unknown=0
+[Frame 264] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 264] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 264] processed | faces=1 known=1 unknown=0
+[Frame 265] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 265] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 265] processed | faces=1 known=1 unknown=0
+[Frame 266] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 266] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 266] processed | faces=1 known=1 unknown=0
+[Frame 267] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 267] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 267] processed | faces=1 known=1 unknown=0
+[Frame 268] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 268] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 268] processed | faces=1 known=1 unknown=0
+[Frame 269] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 269] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 269] processed | faces=1 known=1 unknown=0
+[Frame 270] DETECT RESET: faces_detected=2 trackers_reset=2
+[Frame 270] detect=True faces_detected=2 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 270] processed | faces=2 known=2 unknown=0
+[Frame 271] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 271] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 271] processed | faces=2 known=2 unknown=0
+[Frame 272] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 272] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 272] processed | faces=2 known=2 unknown=0
+[Frame 273] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 273] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 273] processed | faces=2 known=2 unknown=0
+[Frame 274] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 274] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 274] processed | faces=2 known=2 unknown=0
+[Frame 275] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 275] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 275] processed | faces=2 known=2 unknown=0
+[Frame 276] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 276] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 276] processed | faces=2 known=2 unknown=0
+[Frame 277] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 277] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 277] processed | faces=2 known=2 unknown=0
+[Frame 278] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 278] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 278] processed | faces=2 known=2 unknown=0
+[Frame 279] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 279] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 279] processed | faces=2 known=2 unknown=0
+[Frame 280] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 280] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 280] processed | faces=2 known=2 unknown=0
+[Frame 281] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 281] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 281] processed | faces=2 known=2 unknown=0
+[Frame 282] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 282] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 282] processed | faces=2 known=2 unknown=0
+[Frame 283] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 283] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 283] processed | faces=2 known=2 unknown=0
+[Frame 284] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 284] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 284] processed | faces=2 known=2 unknown=0
+[Frame 285] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 285] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 285] processed | faces=2 known=2 unknown=0
+[Frame 286] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 286] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 286] processed | faces=2 known=2 unknown=0
+[Frame 287] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 287] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 287] processed | faces=2 known=2 unknown=0
+[Frame 288] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 288] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 288] processed | faces=2 known=2 unknown=0
+[Frame 289] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 289] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 289] processed | faces=2 known=2 unknown=0
+[Frame 290] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 290] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 290] processed | faces=2 known=2 unknown=0
+[Frame 291] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 291] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 291] processed | faces=2 known=2 unknown=0
+[Frame 292] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 292] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 292] processed | faces=2 known=2 unknown=0
+[Frame 293] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 293] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 293] processed | faces=2 known=2 unknown=0
+[Frame 294] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 294] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 294] processed | faces=2 known=2 unknown=0
+[Frame 295] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 295] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 295] processed | faces=2 known=2 unknown=0
+[Frame 296] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 296] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 296] processed | faces=2 known=2 unknown=0
+[Frame 297] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 297] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 297] processed | faces=2 known=2 unknown=0
+[Frame 298] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 298] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 298] processed | faces=2 known=2 unknown=0
+[Frame 299] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 299] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 299] processed | faces=2 known=2 unknown=0
+[Frame 300] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 300] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 300] processed | faces=2 known=2 unknown=0
+[Frame 301] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 301] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 301] processed | faces=2 known=2 unknown=0
+[Frame 302] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 302] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 302] processed | faces=2 known=2 unknown=0
+[Frame 303] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 303] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 303] processed | faces=2 known=2 unknown=0
+[Frame 304] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 304] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 304] processed | faces=2 known=2 unknown=0
+[Frame 305] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 305] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 305] processed | faces=2 known=2 unknown=0
+[Frame 306] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 306] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 306] processed | faces=2 known=2 unknown=0
+[Frame 307] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 307] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 307] processed | faces=2 known=2 unknown=0
+[Frame 308] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 308] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 308] processed | faces=2 known=2 unknown=0
+[Frame 309] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 309] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 309] processed | faces=2 known=2 unknown=0
+[Frame 310] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 310] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 310] processed | faces=2 known=2 unknown=0
+[Frame 311] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 311] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 311] processed | faces=2 known=2 unknown=0
+[Frame 312] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 312] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 312] processed | faces=2 known=2 unknown=0
+[Frame 313] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 313] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 313] processed | faces=2 known=2 unknown=0
+[Frame 314] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 314] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 314] processed | faces=2 known=2 unknown=0
+[Frame 315] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 315] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 315] processed | faces=2 known=2 unknown=0
+[Frame 316] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 316] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 316] processed | faces=2 known=2 unknown=0
+[Frame 317] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 317] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 317] processed | faces=2 known=2 unknown=0
+[Frame 318] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 318] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 318] processed | faces=2 known=2 unknown=0
+[Frame 319] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 319] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 319] processed | faces=2 known=2 unknown=0
+[Frame 320] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 320] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 320] processed | faces=2 known=2 unknown=0
+[Frame 321] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 321] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 321] processed | faces=2 known=2 unknown=0
+[Frame 322] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 322] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 322] processed | faces=2 known=2 unknown=0
+[Frame 323] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 323] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 323] processed | faces=2 known=2 unknown=0
+[Frame 324] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 324] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 324] processed | faces=2 known=2 unknown=0
+[Frame 325] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 325] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 325] processed | faces=2 known=2 unknown=0
+[Frame 326] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 326] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 326] processed | faces=2 known=2 unknown=0
+[Frame 327] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 327] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 327] processed | faces=2 known=2 unknown=0
+[Frame 328] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 328] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 328] processed | faces=2 known=2 unknown=0
+[Frame 329] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 329] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 329] processed | faces=2 known=2 unknown=0
+[Frame 330] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 330] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 330] processed | faces=2 known=2 unknown=0
+[Frame 331] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 331] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 331] processed | faces=2 known=2 unknown=0
+[Frame 332] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 332] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 332] processed | faces=2 known=2 unknown=0
+[Frame 333] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 333] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 333] processed | faces=2 known=2 unknown=0
+[Frame 334] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 334] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 334] processed | faces=2 known=2 unknown=0
+[Frame 335] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 335] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 335] processed | faces=2 known=2 unknown=0
+[Frame 336] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 336] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 336] processed | faces=2 known=2 unknown=0
+[Frame 337] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 337] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 337] processed | faces=2 known=2 unknown=0
+[Frame 338] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 338] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 338] processed | faces=2 known=2 unknown=0
+[Frame 339] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 339] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 339] processed | faces=2 known=2 unknown=0
+[Frame 340] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 340] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 340] processed | faces=2 known=2 unknown=0
+[Frame 341] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 341] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 341] processed | faces=2 known=2 unknown=0
+[Frame 342] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 342] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 342] processed | faces=2 known=2 unknown=0
+[Frame 343] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 343] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 343] processed | faces=2 known=2 unknown=0
+[Frame 344] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 344] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 344] processed | faces=2 known=2 unknown=0
+[Frame 345] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 345] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 345] processed | faces=2 known=2 unknown=0
+[Frame 346] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 346] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 346] processed | faces=2 known=2 unknown=0
+[Frame 347] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 347] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 347] processed | faces=2 known=2 unknown=0
+[Frame 348] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 348] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 348] processed | faces=2 known=2 unknown=0
+[Frame 349] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 349] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 349] processed | faces=2 known=2 unknown=0
+[Frame 350] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 350] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 350] processed | faces=2 known=2 unknown=0
+[Frame 351] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 351] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 351] processed | faces=2 known=2 unknown=0
+[Frame 352] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 352] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 352] processed | faces=2 known=2 unknown=0
+[Frame 353] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 353] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 353] processed | faces=2 known=2 unknown=0
+[Frame 354] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 354] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 354] processed | faces=2 known=2 unknown=0
+[Frame 355] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 355] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 355] processed | faces=2 known=2 unknown=0
+[Frame 356] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 356] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 356] processed | faces=2 known=2 unknown=0
+[Frame 357] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 357] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 357] processed | faces=2 known=2 unknown=0
+[Frame 358] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 358] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 358] processed | faces=2 known=2 unknown=0
+[Frame 359] DETECT RESET: faces_detected=0 trackers_reset=2
+[Frame 359] detect=False faces_detected=0 trackers_total=2 visible_boxes=2 known=2 unknown=0 names=['santosh', 'anish']
+[Frame 359] processed | faces=2 known=2 unknown=0
+[Frame 360] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 360] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 360] processed | faces=1 known=1 unknown=0
+[Frame 361] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 361] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 361] processed | faces=1 known=1 unknown=0
+[Frame 362] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 362] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 362] processed | faces=1 known=1 unknown=0
+[Frame 363] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 363] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 363] processed | faces=1 known=1 unknown=0
+[Frame 364] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 364] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 364] processed | faces=1 known=1 unknown=0
+[Frame 365] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 365] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 365] processed | faces=1 known=1 unknown=0
+[Frame 366] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 366] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 366] processed | faces=1 known=1 unknown=0
+[Frame 367] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 367] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 367] processed | faces=1 known=1 unknown=0
+[Frame 368] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 368] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 368] processed | faces=1 known=1 unknown=0
+[Frame 369] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 369] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 369] processed | faces=1 known=1 unknown=0
+[Frame 370] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 370] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 370] processed | faces=1 known=1 unknown=0
+[Frame 371] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 371] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 371] processed | faces=1 known=1 unknown=0
+[Frame 372] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 372] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 372] processed | faces=1 known=1 unknown=0
+[Frame 373] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 373] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 373] processed | faces=1 known=1 unknown=0
+[Frame 374] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 374] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 374] processed | faces=1 known=1 unknown=0
+[Frame 375] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 375] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 375] processed | faces=1 known=1 unknown=0
+[Frame 376] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 376] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 376] processed | faces=1 known=1 unknown=0
+[Frame 377] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 377] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 377] processed | faces=1 known=1 unknown=0
+[Frame 378] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 378] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 378] processed | faces=1 known=1 unknown=0
+[Frame 379] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 379] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 379] processed | faces=1 known=1 unknown=0
+[Frame 380] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 380] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 380] processed | faces=1 known=1 unknown=0
+[Frame 381] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 381] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 381] processed | faces=1 known=1 unknown=0
+[Frame 382] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 382] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 382] processed | faces=1 known=1 unknown=0
+[Frame 383] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 383] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 383] processed | faces=1 known=1 unknown=0
+[Frame 384] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 384] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 384] processed | faces=1 known=1 unknown=0
+[Frame 385] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 385] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 385] processed | faces=1 known=1 unknown=0
+[Frame 386] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 386] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 386] processed | faces=1 known=1 unknown=0
+[Frame 387] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 387] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 387] processed | faces=1 known=1 unknown=0
+[Frame 388] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 388] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 388] processed | faces=1 known=1 unknown=0
+[Frame 389] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 389] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 389] processed | faces=1 known=1 unknown=0
+[Frame 390] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 390] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 390] processed | faces=1 known=1 unknown=0
+[Frame 391] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 391] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 391] processed | faces=1 known=1 unknown=0
+[Frame 392] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 392] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 392] processed | faces=1 known=1 unknown=0
+[Frame 393] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 393] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 393] processed | faces=1 known=1 unknown=0
+[Frame 394] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 394] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 394] processed | faces=1 known=1 unknown=0
+[Frame 395] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 395] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 395] processed | faces=1 known=1 unknown=0
+[Frame 396] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 396] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 396] processed | faces=1 known=1 unknown=0
+[Frame 397] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 397] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 397] processed | faces=1 known=1 unknown=0
+[Frame 398] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 398] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 398] processed | faces=1 known=1 unknown=0
+[Frame 399] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 399] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 399] processed | faces=1 known=1 unknown=0
+[Frame 400] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 400] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 400] processed | faces=1 known=1 unknown=0
+[Frame 401] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 401] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 401] processed | faces=1 known=1 unknown=0
+[Frame 402] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 402] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 402] processed | faces=1 known=1 unknown=0
+[Frame 403] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 403] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 403] processed | faces=1 known=1 unknown=0
+[Frame 404] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 404] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 404] processed | faces=1 known=1 unknown=0
+[Frame 405] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 405] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 405] processed | faces=1 known=1 unknown=0
+[Frame 406] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 406] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 406] processed | faces=1 known=1 unknown=0
+[Frame 407] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 407] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 407] processed | faces=1 known=1 unknown=0
+[Frame 408] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 408] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 408] processed | faces=1 known=1 unknown=0
+[Frame 409] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 409] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 409] processed | faces=1 known=1 unknown=0
+[Frame 410] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 410] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 410] processed | faces=1 known=1 unknown=0
+[Frame 411] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 411] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 411] processed | faces=1 known=1 unknown=0
+[Frame 412] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 412] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 412] processed | faces=1 known=1 unknown=0
+[Frame 413] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 413] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 413] processed | faces=1 known=1 unknown=0
+[Frame 414] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 414] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 414] processed | faces=1 known=1 unknown=0
+[Frame 415] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 415] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 415] processed | faces=1 known=1 unknown=0
+[Frame 416] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 416] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 416] processed | faces=1 known=1 unknown=0
+[Frame 417] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 417] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 417] processed | faces=1 known=1 unknown=0
+[Frame 418] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 418] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 418] processed | faces=1 known=1 unknown=0
+[Frame 419] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 419] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 419] processed | faces=1 known=1 unknown=0
+[Frame 420] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 420] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 420] processed | faces=1 known=1 unknown=0
+[Frame 421] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 421] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 421] processed | faces=1 known=1 unknown=0
+[Frame 422] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 422] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 422] processed | faces=1 known=1 unknown=0
+[Frame 423] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 423] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 423] processed | faces=1 known=1 unknown=0
+[Frame 424] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 424] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 424] processed | faces=1 known=1 unknown=0
+[Frame 425] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 425] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 425] processed | faces=1 known=1 unknown=0
+[Frame 426] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 426] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 426] processed | faces=1 known=1 unknown=0
+[Frame 427] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 427] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 427] processed | faces=1 known=1 unknown=0
+[Frame 428] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 428] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 428] processed | faces=1 known=1 unknown=0
+[Frame 429] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 429] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 429] processed | faces=1 known=1 unknown=0
+[Frame 430] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 430] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 430] processed | faces=1 known=1 unknown=0
+[Frame 431] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 431] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 431] processed | faces=1 known=1 unknown=0
+[Frame 432] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 432] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 432] processed | faces=1 known=1 unknown=0
+[Frame 433] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 433] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 433] processed | faces=1 known=1 unknown=0
+[Frame 434] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 434] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 434] processed | faces=1 known=1 unknown=0
+[Frame 435] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 435] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 435] processed | faces=1 known=1 unknown=0
+[Frame 436] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 436] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 436] processed | faces=1 known=1 unknown=0
+[Frame 437] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 437] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 437] processed | faces=1 known=1 unknown=0
+[Frame 438] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 438] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 438] processed | faces=1 known=1 unknown=0
+[Frame 439] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 439] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 439] processed | faces=1 known=1 unknown=0
+[Frame 440] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 440] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 440] processed | faces=1 known=1 unknown=0
+[Frame 441] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 441] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['santosh']
+[Frame 441] processed | faces=1 known=1 unknown=0
+[Frame 442] DETECT RESET: faces_detected=0 trackers_reset=0
+[Frame 442] detect=False faces_detected=0 trackers_total=0 visible_boxes=0 known=0 unknown=0 names=[]
+[Frame 442] processed | faces=0 known=0 unknown=0
+[Frame 443] DETECT RESET: faces_detected=0 trackers_reset=0
+[Frame 443] detect=False faces_detected=0 trackers_total=0 visible_boxes=0 known=0 unknown=0 names=[]
+[Frame 443] processed | faces=0 known=0 unknown=0
+[Frame 444] DETECT RESET: faces_detected=0 trackers_reset=0
+[Frame 444] detect=False faces_detected=0 trackers_total=0 visible_boxes=0 known=0 unknown=0 names=[]
+[Frame 444] processed | faces=0 known=0 unknown=0
+[Frame 445] DETECT RESET: faces_detected=0 trackers_reset=0
+[Frame 445] detect=False faces_detected=0 trackers_total=0 visible_boxes=0 known=0 unknown=0 names=[]
+[Frame 445] processed | faces=0 known=0 unknown=0
+[Frame 446] DETECT RESET: faces_detected=0 trackers_reset=0
+[Frame 446] detect=False faces_detected=0 trackers_total=0 visible_boxes=0 known=0 unknown=0 names=[]
+[Frame 446] processed | faces=0 known=0 unknown=0
+[Frame 447] DETECT RESET: faces_detected=0 trackers_reset=0
+[Frame 447] detect=False faces_detected=0 trackers_total=0 visible_boxes=0 known=0 unknown=0 names=[]
+[Frame 447] processed | faces=0 known=0 unknown=0
+[Frame 448] DETECT RESET: faces_detected=0 trackers_reset=0
+[Frame 448] detect=False faces_detected=0 trackers_total=0 visible_boxes=0 known=0 unknown=0 names=[]
+[Frame 448] processed | faces=0 known=0 unknown=0
+[Frame 449] DETECT RESET: faces_detected=0 trackers_reset=0
+[Frame 449] detect=False faces_detected=0 trackers_total=0 visible_boxes=0 known=0 unknown=0 names=[]
+[Frame 449] processed | faces=0 known=0 unknown=0
+[Frame 450] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 450] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 450] processed | faces=1 known=1 unknown=0
+[Frame 451] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 451] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 451] processed | faces=1 known=1 unknown=0
+[Frame 452] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 452] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 452] processed | faces=1 known=1 unknown=0
+[Frame 453] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 453] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 453] processed | faces=1 known=1 unknown=0
+[Frame 454] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 454] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 454] processed | faces=1 known=1 unknown=0
+[Frame 455] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 455] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 455] processed | faces=1 known=1 unknown=0
+[Frame 456] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 456] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 456] processed | faces=1 known=1 unknown=0
+[Frame 457] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 457] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 457] processed | faces=1 known=1 unknown=0
+[Frame 458] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 458] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 458] processed | faces=1 known=1 unknown=0
+[Frame 459] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 459] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 459] processed | faces=1 known=1 unknown=0
+[Frame 460] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 460] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 460] processed | faces=1 known=1 unknown=0
+[Frame 461] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 461] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 461] processed | faces=1 known=1 unknown=0
+[Frame 462] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 462] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 462] processed | faces=1 known=1 unknown=0
+[Frame 463] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 463] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 463] processed | faces=1 known=1 unknown=0
+[Frame 464] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 464] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 464] processed | faces=1 known=1 unknown=0
+[Frame 465] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 465] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 465] processed | faces=1 known=1 unknown=0
+[Frame 466] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 466] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 466] processed | faces=1 known=1 unknown=0
+[Frame 467] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 467] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 467] processed | faces=1 known=1 unknown=0
+[Frame 468] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 468] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 468] processed | faces=1 known=1 unknown=0
+[Frame 469] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 469] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 469] processed | faces=1 known=1 unknown=0
+[Frame 470] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 470] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 470] processed | faces=1 known=1 unknown=0
+[Frame 471] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 471] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 471] processed | faces=1 known=1 unknown=0
+[Frame 472] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 472] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 472] processed | faces=1 known=1 unknown=0
+[Frame 473] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 473] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 473] processed | faces=1 known=1 unknown=0
+[Frame 474] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 474] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 474] processed | faces=1 known=1 unknown=0
+[Frame 475] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 475] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 475] processed | faces=1 known=1 unknown=0
+[Frame 476] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 476] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 476] processed | faces=1 known=1 unknown=0
+[Frame 477] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 477] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 477] processed | faces=1 known=1 unknown=0
+[Frame 478] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 478] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 478] processed | faces=1 known=1 unknown=0
+[Frame 479] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 479] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 479] processed | faces=1 known=1 unknown=0
+[Frame 480] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 480] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 480] processed | faces=1 known=1 unknown=0
+[Frame 481] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 481] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 481] processed | faces=1 known=1 unknown=0
+[Frame 482] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 482] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 482] processed | faces=1 known=1 unknown=0
+[Frame 483] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 483] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 483] processed | faces=1 known=1 unknown=0
+[Frame 484] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 484] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 484] processed | faces=1 known=1 unknown=0
+[Frame 485] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 485] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 485] processed | faces=1 known=1 unknown=0
+[Frame 486] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 486] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 486] processed | faces=1 known=1 unknown=0
+[Frame 487] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 487] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 487] processed | faces=1 known=1 unknown=0
+[Frame 488] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 488] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 488] processed | faces=1 known=1 unknown=0
+[Frame 489] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 489] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 489] processed | faces=1 known=1 unknown=0
+[Frame 490] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 490] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 490] processed | faces=1 known=1 unknown=0
+[Frame 491] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 491] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 491] processed | faces=1 known=1 unknown=0
+[Frame 492] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 492] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 492] processed | faces=1 known=1 unknown=0
+[Frame 493] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 493] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 493] processed | faces=1 known=1 unknown=0
+[Frame 494] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 494] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 494] processed | faces=1 known=1 unknown=0
+[Frame 495] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 495] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 495] processed | faces=1 known=1 unknown=0
+[Frame 496] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 496] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 496] processed | faces=1 known=1 unknown=0
+[Frame 497] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 497] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 497] processed | faces=1 known=1 unknown=0
+[Frame 498] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 498] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 498] processed | faces=1 known=1 unknown=0
+[Frame 499] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 499] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 499] processed | faces=1 known=1 unknown=0
+[Frame 500] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 500] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 500] processed | faces=1 known=1 unknown=0
+[Frame 501] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 501] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 501] processed | faces=1 known=1 unknown=0
+[Frame 502] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 502] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 502] processed | faces=1 known=1 unknown=0
+[Frame 503] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 503] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 503] processed | faces=1 known=1 unknown=0
+[Frame 504] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 504] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 504] processed | faces=1 known=1 unknown=0
+[Frame 505] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 505] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 505] processed | faces=1 known=1 unknown=0
+[Frame 506] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 506] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 506] processed | faces=1 known=1 unknown=0
+[Frame 507] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 507] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 507] processed | faces=1 known=1 unknown=0
+[Frame 508] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 508] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 508] processed | faces=1 known=1 unknown=0
+[Frame 509] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 509] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 509] processed | faces=1 known=1 unknown=0
+[Frame 510] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 510] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 510] processed | faces=1 known=1 unknown=0
+[Frame 511] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 511] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 511] processed | faces=1 known=1 unknown=0
+[Frame 512] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 512] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 512] processed | faces=1 known=1 unknown=0
+[Frame 513] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 513] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 513] processed | faces=1 known=1 unknown=0
+[Frame 514] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 514] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 514] processed | faces=1 known=1 unknown=0
+[Frame 515] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 515] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 515] processed | faces=1 known=1 unknown=0
+[Frame 516] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 516] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 516] processed | faces=1 known=1 unknown=0
+[Frame 517] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 517] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 517] processed | faces=1 known=1 unknown=0
+[Frame 518] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 518] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 518] processed | faces=1 known=1 unknown=0
+[Frame 519] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 519] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 519] processed | faces=1 known=1 unknown=0
+[Frame 520] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 520] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 520] processed | faces=1 known=1 unknown=0
+[Frame 521] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 521] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 521] processed | faces=1 known=1 unknown=0
+[Frame 522] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 522] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 522] processed | faces=1 known=1 unknown=0
+[Frame 523] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 523] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 523] processed | faces=1 known=1 unknown=0
+[Frame 524] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 524] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 524] processed | faces=1 known=1 unknown=0
+[Frame 525] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 525] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 525] processed | faces=1 known=1 unknown=0
+[Frame 526] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 526] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 526] processed | faces=1 known=1 unknown=0
+[Frame 527] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 527] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 527] processed | faces=1 known=1 unknown=0
+[Frame 528] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 528] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 528] processed | faces=1 known=1 unknown=0
+[Frame 529] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 529] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 529] processed | faces=1 known=1 unknown=0
+[Frame 530] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 530] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 530] processed | faces=1 known=1 unknown=0
+[Frame 531] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 531] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 531] processed | faces=1 known=1 unknown=0
+[Frame 532] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 532] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 532] processed | faces=1 known=1 unknown=0
+[Frame 533] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 533] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 533] processed | faces=1 known=1 unknown=0
+[Frame 534] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 534] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 534] processed | faces=1 known=1 unknown=0
+[Frame 535] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 535] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 535] processed | faces=1 known=1 unknown=0
+[Frame 536] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 536] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 536] processed | faces=1 known=1 unknown=0
+[Frame 537] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 537] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 537] processed | faces=1 known=1 unknown=0
+[Frame 538] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 538] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 538] processed | faces=1 known=1 unknown=0
+[Frame 539] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 539] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 539] processed | faces=1 known=1 unknown=0
+[Frame 540] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 540] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 540] processed | faces=1 known=1 unknown=0
+[Frame 541] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 541] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 541] processed | faces=1 known=1 unknown=0
+[Frame 542] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 542] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 542] processed | faces=1 known=1 unknown=0
+[Frame 543] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 543] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 543] processed | faces=1 known=1 unknown=0
+[Frame 544] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 544] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 544] processed | faces=1 known=1 unknown=0
+[Frame 545] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 545] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 545] processed | faces=1 known=1 unknown=0
+[Frame 546] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 546] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 546] processed | faces=1 known=1 unknown=0
+[Frame 547] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 547] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 547] processed | faces=1 known=1 unknown=0
+[Frame 548] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 548] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 548] processed | faces=1 known=1 unknown=0
+[Frame 549] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 549] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 549] processed | faces=1 known=1 unknown=0
+[Frame 550] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 550] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 550] processed | faces=1 known=1 unknown=0
+[Frame 551] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 551] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 551] processed | faces=1 known=1 unknown=0
+[Frame 552] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 552] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 552] processed | faces=1 known=1 unknown=0
+[Frame 553] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 553] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 553] processed | faces=1 known=1 unknown=0
+[Frame 554] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 554] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 554] processed | faces=1 known=1 unknown=0
+[Frame 555] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 555] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 555] processed | faces=1 known=1 unknown=0
+[Frame 556] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 556] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 556] processed | faces=1 known=1 unknown=0
+[Frame 557] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 557] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 557] processed | faces=1 known=1 unknown=0
+[Frame 558] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 558] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 558] processed | faces=1 known=1 unknown=0
+[Frame 559] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 559] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 559] processed | faces=1 known=1 unknown=0
+[Frame 560] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 560] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 560] processed | faces=1 known=1 unknown=0
+[Frame 561] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 561] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 561] processed | faces=1 known=1 unknown=0
+[Frame 562] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 562] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 562] processed | faces=1 known=1 unknown=0
+[Frame 563] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 563] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 563] processed | faces=1 known=1 unknown=0
+[Frame 564] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 564] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 564] processed | faces=1 known=1 unknown=0
+[Frame 565] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 565] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 565] processed | faces=1 known=1 unknown=0
+[Frame 566] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 566] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 566] processed | faces=1 known=1 unknown=0
+[Frame 567] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 567] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 567] processed | faces=1 known=1 unknown=0
+[Frame 568] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 568] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 568] processed | faces=1 known=1 unknown=0
+[Frame 569] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 569] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 569] processed | faces=1 known=1 unknown=0
+[Frame 570] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 570] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 570] processed | faces=1 known=1 unknown=0
+[Frame 571] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 571] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 571] processed | faces=1 known=1 unknown=0
+[Frame 572] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 572] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 572] processed | faces=1 known=1 unknown=0
+[Frame 573] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 573] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 573] processed | faces=1 known=1 unknown=0
+[Frame 574] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 574] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 574] processed | faces=1 known=1 unknown=0
+[Frame 575] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 575] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 575] processed | faces=1 known=1 unknown=0
+[Frame 576] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 576] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 576] processed | faces=1 known=1 unknown=0
+[Frame 577] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 577] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 577] processed | faces=1 known=1 unknown=0
+[Frame 578] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 578] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 578] processed | faces=1 known=1 unknown=0
+[Frame 579] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 579] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 579] processed | faces=1 known=1 unknown=0
+[Frame 580] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 580] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 580] processed | faces=1 known=1 unknown=0
+[Frame 581] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 581] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 581] processed | faces=1 known=1 unknown=0
+[Frame 582] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 582] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 582] processed | faces=1 known=1 unknown=0
+[Frame 583] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 583] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 583] processed | faces=1 known=1 unknown=0
+[Frame 584] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 584] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 584] processed | faces=1 known=1 unknown=0
+[Frame 585] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 585] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 585] processed | faces=1 known=1 unknown=0
+[Frame 586] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 586] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 586] processed | faces=1 known=1 unknown=0
+[Frame 587] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 587] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 587] processed | faces=1 known=1 unknown=0
+[Frame 588] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 588] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 588] processed | faces=1 known=1 unknown=0
+[Frame 589] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 589] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 589] processed | faces=1 known=1 unknown=0
+[Frame 590] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 590] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 590] processed | faces=1 known=1 unknown=0
+[Frame 591] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 591] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 591] processed | faces=1 known=1 unknown=0
+[Frame 592] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 592] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 592] processed | faces=1 known=1 unknown=0
+[Frame 593] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 593] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 593] processed | faces=1 known=1 unknown=0
+[Frame 594] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 594] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 594] processed | faces=1 known=1 unknown=0
+[Frame 595] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 595] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 595] processed | faces=1 known=1 unknown=0
+[Frame 596] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 596] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 596] processed | faces=1 known=1 unknown=0
+[Frame 597] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 597] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 597] processed | faces=1 known=1 unknown=0
+[Frame 598] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 598] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 598] processed | faces=1 known=1 unknown=0
+[Frame 599] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 599] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 599] processed | faces=1 known=1 unknown=0
+[Frame 600] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 600] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 600] processed | faces=1 known=1 unknown=0
+[Frame 601] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 601] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 601] processed | faces=1 known=1 unknown=0
+[Frame 602] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 602] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 602] processed | faces=1 known=1 unknown=0
+[Frame 603] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 603] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 603] processed | faces=1 known=1 unknown=0
+[Frame 604] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 604] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 604] processed | faces=1 known=1 unknown=0
+[Frame 605] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 605] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 605] processed | faces=1 known=1 unknown=0
+[Frame 606] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 606] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 606] processed | faces=1 known=1 unknown=0
+[Frame 607] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 607] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 607] processed | faces=1 known=1 unknown=0
+[Frame 608] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 608] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 608] processed | faces=1 known=1 unknown=0
+[Frame 609] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 609] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 609] processed | faces=1 known=1 unknown=0
+[Frame 610] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 610] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 610] processed | faces=1 known=1 unknown=0
+[Frame 611] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 611] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 611] processed | faces=1 known=1 unknown=0
+[Frame 612] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 612] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 612] processed | faces=1 known=1 unknown=0
+[Frame 613] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 613] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 613] processed | faces=1 known=1 unknown=0
+[Frame 614] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 614] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 614] processed | faces=1 known=1 unknown=0
+[Frame 615] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 615] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 615] processed | faces=1 known=1 unknown=0
+[Frame 616] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 616] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 616] processed | faces=1 known=1 unknown=0
+[Frame 617] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 617] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 617] processed | faces=1 known=1 unknown=0
+[Frame 618] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 618] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 618] processed | faces=1 known=1 unknown=0
+[Frame 619] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 619] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 619] processed | faces=1 known=1 unknown=0
+[Frame 620] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 620] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 620] processed | faces=1 known=1 unknown=0
+[Frame 621] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 621] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 621] processed | faces=1 known=1 unknown=0
+[Frame 622] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 622] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 622] processed | faces=1 known=1 unknown=0
+[Frame 623] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 623] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 623] processed | faces=1 known=1 unknown=0
+[Frame 624] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 624] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 624] processed | faces=1 known=1 unknown=0
+[Frame 625] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 625] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 625] processed | faces=1 known=1 unknown=0
+[Frame 626] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 626] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 626] processed | faces=1 known=1 unknown=0
+[Frame 627] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 627] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 627] processed | faces=1 known=1 unknown=0
+[Frame 628] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 628] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 628] processed | faces=1 known=1 unknown=0
+[Frame 629] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 629] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 629] processed | faces=1 known=1 unknown=0
+[Frame 630] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 630] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 630] processed | faces=1 known=1 unknown=0
+[Frame 631] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 631] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 631] processed | faces=1 known=1 unknown=0
+[Frame 632] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 632] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 632] processed | faces=1 known=1 unknown=0
+[Frame 633] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 633] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 633] processed | faces=1 known=1 unknown=0
+[Frame 634] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 634] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 634] processed | faces=1 known=1 unknown=0
+[Frame 635] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 635] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 635] processed | faces=1 known=1 unknown=0
+[Frame 636] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 636] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 636] processed | faces=1 known=1 unknown=0
+[Frame 637] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 637] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 637] processed | faces=1 known=1 unknown=0
+[Frame 638] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 638] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 638] processed | faces=1 known=1 unknown=0
+[Frame 639] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 639] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 639] processed | faces=1 known=1 unknown=0
+[Frame 640] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 640] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 640] processed | faces=1 known=1 unknown=0
+[Frame 641] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 641] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 641] processed | faces=1 known=1 unknown=0

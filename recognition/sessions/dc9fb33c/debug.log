@@ -1,0 +1,38 @@
+DEBUG LOG OPENED → /Users/anishkumarshrestha/Desktop/PIE detector/SCI501/recognition/sessions/dc9fb33c/debug.log
+[Frame 0] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 0] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 104] processed | faces=1 known=1 unknown=0
+[Frame 105] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 105] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 105] processed | faces=1 known=1 unknown=0
+[Frame 106] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 106] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 106] processed | faces=1 known=1 unknown=0
+[Frame 107] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 107] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 107] processed | faces=1 known=1 unknown=0
+[Frame 0] processed | faces=1 known=1 unknown=0
+[Frame 1] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 1] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 1] processed | faces=1 known=1 unknown=0
+[Frame 2] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 2] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 2] processed | faces=1 known=1 unknown=0
+[Frame 3] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 3] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 3] processed | faces=1 known=1 unknown=0
+[Frame 108] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 108] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['anish']
+[Frame 4] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 4] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 4] processed | faces=1 known=1 unknown=0
+[Frame 5] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 5] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 5] processed | faces=1 known=1 unknown=0
+[Frame 6] DETECT RESET: faces_detected=1 trackers_reset=1
+[Frame 6] detect=True faces_detected=1 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 6] processed | faces=1 known=1 unknown=0
+[Frame 7] DETECT RESET: faces_detected=0 trackers_reset=1
+[Frame 7] detect=False faces_detected=0 trackers_total=1 visible_boxes=1 known=1 unknown=0 names=['worker1']
+[Frame 7] processed | faces=1 known=1 unknown=0
+[Frame 108] processed | faces=1 known=1 unknown=0

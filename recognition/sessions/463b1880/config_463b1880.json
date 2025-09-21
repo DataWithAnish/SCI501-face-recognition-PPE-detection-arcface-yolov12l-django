@@ -1,0 +1,25 @@
+{
+  "session_id": "463b1880",
+  "started_iso": "2025-09-19T05:17:56.668511",
+  "models": {
+    "yolo_model_path": "/home/ashres34/Desktop/SCI501/PPE_DATASET_YOLOv8_/runs/detect/yolov12-l-64-1002/weights/best.pt",
+    "arcface": {
+      "name": "buffalo_l",
+      "det_size": [
+        640,
+        640
+      ],
+      "det_thresh": 0.5,
+      "gpu": false
+    }
+  },
+  "performance_knobs": {
+    "DETECT_EVERY_N": 5,
+    "EMBED_EVERY_M": 30,
+    "YOLO_EVERY_N": 8,
+    "TRACKER_TYPE": "MOSSE",
+    "MIN_FACE_SIZE": 32,
+    "NMS_IOU_MATCH": 0.4,
+    "TOPK_TO_LOG": 3
+  }
+}

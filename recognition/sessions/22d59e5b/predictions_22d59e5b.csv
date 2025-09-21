@@ -1,0 +1,4 @@
+ts,session_id,frame_idx,track_id,x1,y1,x2,y2,predicted,confidence,threshold,decision,top1_name,top1_sim,top2_name,top2_sim,top3_name,top3_sim
+1758352214.2119958,22d59e5b,0,1,921,188,1341,748,anish,0.526303,0.35,recognized,anish,0.526303,worker1,0.041183,Fareed Ud Din sir,-0.04296
+1758352214.214504,22d59e5b,0,1,921,188,1341,748,anish,0.461288,0.35,recognized,anish,0.461288,worker1,0.069857,Fareed Ud Din sir,-0.026343
+1758352214.214504,22d59e5b,0,2,919,179,1342,751,anish,0.461288,0.35,recognized,anish,0.461288,worker1,0.069857,Fareed Ud Din sir,-0.026343

@@ -1,0 +1,389 @@
+<div style="display:flex; gap:16px; align-items:flex-start;">
+    <!-- Video + Controls -->
+    <div style="flex:2; min-width: 480px;">
+      <div style="display:flex; gap:8px; align-items:center; margin:0 0 8px;">
+        <strong>Source:</strong>
+        <select id="sourceSel">
+          <option value="camera">Camera</option>
+          {% if file_url %}
+          <option value="file">Demo file</option>
+          {% endif %}
+          <option value="custom">Custom path…</option>
+        </select>
+  
+        <input id="customPath" type="text" placeholder="/full/path/video.mp4"
+               style="display:none; width: 320px; padding:4px 8px; border:1px solid #ddd; border-radius:6px;" />
+  
+        <span style="margin-left:12px;"><strong>Threshold:</strong></span>
+        <input id="threshold" type="range" min="0.2" max="0.6" step="0.01" value="0.35" />
+        <span id="thVal">0.35</span>
+  
+        <button id="applyBtn" style="margin-left:12px; padding:6px 10px; border:1px solid #ddd; border-radius:6px; background:#fafafa; cursor:pointer;">
+          Apply
+        </button>
+      </div>
+  
+      <div id="streamWrap" style="position:relative;">
+        <img id="stream" src="{{ camera_url }}" width="768"
+             style="border:1px solid #ddd; border-radius:6px; max-height:576px; object-fit:contain;">
+        <div id="overlay" style="display:none; position:absolute; inset:0; background:rgba(0,0,0,.5); color:#fff; 
+             align-items:center; justify-content:center; font-family: system-ui; border-radius:6px;">
+          <div>
+            <div style="font-size:18px; font-weight:600; text-align:center;">Connecting…</div>
+            <div style="margin-top:6px; font-size:12px; text-align:center;">If this takes too long, click Apply again.</div>
+          </div>
+        </div>
+      </div>
+  
+      <div style="margin-top:6px; font-size:12px; color:#666; font-family: system-ui;">
+        Stream URL: <code id="streamUrl">{{ camera_url }}</code>
+      </div>
+    </div>
+  
+    <!-- Stats -->
+    <div style="flex:1; padding:12px; border-left:1px solid #eee; font-family:system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;">
+      <h2 style="margin:0 0 8px;">Live Stats</h2>
+      <small id="session-meta" style="color:#666;"></small>
+  
+      <h3 style="margin-top:16px;">Instant (this frame)</h3>
+      <div style="line-height:1.6;">
+        <div>Faces: <b id="inst-faces">0</b></div>
+        <div>Recognized: <b id="inst-rec">0</b></div>
+        <div>Unknown: <b id="inst-unk">0</b></div>
+        <div>Recognized workers: <span id="inst-workers">–</span></div>
+      </div>
+  
+      <h4 style="margin-top:10px;">Timing (ms)</h4>
+      <div style="line-height:1.6;">
+        <div>ArcFace: <b id="t-arc">–</b></div>
+        <div>YOLO: <b id="t-yolo">–</b></div>
+        <div>Total: <b id="t-total">–</b></div>
+      </div>
+  
+      <h3 style="margin-top:16px;">Session (cumulative)</h3>
+      <div style="line-height:1.6;">
+        <div>Frames: <b id="cum-frames">0</b></div>
+        <div>Faces seen: <b id="cum-faces">0</b></div>
+        <div>Recognized: <b id="cum-rec">0</b></div>
+        <div>Unknown: <b id="cum-unk">0</b></div>
+        <div>Recognition rate: <b id="cum-rate">0.0000</b></div>
+        <div>Avg confidence (recognized): <b id="cum-conf">0.0000</b></div>
+      </div>
+  
+      <h4 style="margin-top:10px;">Per-worker</h4>
+      <table id="per-worker" style="width:100%; border-collapse:collapse; font-size:14px;">
+        <thead>
+          <tr>
+            <th style="text-align:left; border-bottom:1px solid #ddd; padding:4px;">Worker</th>
+            <th style="text-align:right; border-bottom:1px solid #ddd; padding:4px;">Seen</th>
+            <th style="text-align:right; border-bottom:1px solid #ddd; padding:4px;">Recognized</th>
+            <th style="text-align:right; border-bottom:1px solid #ddd; padding:4px;">Rate</th>
+            <th style="text-align:right; border-bottom:1px solid #ddd; padding:4px;">Avg conf</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+  
+      <h3 style="margin-top:16px;">YOLO detections (this frame)</h3>
+      <ul id="yolo-stats" style="margin:6px 0 0 16px;"></ul>
+  
+      <div id="csv-row" style="margin-top:16px;">
+        <a id="csv-link" href="#" target="_blank" style="display:none;">Open CSV log</a>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Charts Section -->
+  <div style="margin-top:24px; display:grid; grid-template-columns:1fr; gap:16px;">
+    <div style="background:#fff; border:1px solid #eee; border-radius:12px; padding:16px;">
+      <h3 style="margin:0 0 12px;">Recognition Accuracy Over Time</h3>
+      <canvas id="accuracyChart" height="300"></canvas>
+    </div>
+    <div style="background:#fff; border:1px solid #eee; border-radius:12px; padding:16px;">
+      <h3 style="margin:0 0 12px;">Processing Performance</h3>
+      <canvas id="performanceChart" height="300"></canvas>
+    </div>
+    <div style="background:#fff; border:1px solid #eee; border-radius:12px; padding:16px;">
+      <h3 style="margin:0 0 12px;">Worker Recognition Stats</h3>
+      <canvas id="workerChart" height="300"></canvas>
+    </div>
+  </div>
+  
+  <!-- libs -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/moment"></script>
+  
+  <script>
+  /* ----------------- helpers ----------------- */
+  function fmt(n, digits = 4) {
+    if (n === null || n === undefined || Number.isNaN(Number(n))) return Number(0).toFixed(digits);
+    return Number(n).toFixed(digits);
+  }
+  
+  function qs(obj) {
+    const p = new URLSearchParams(obj);
+    return p.toString();
+  }
+  
+  /* ----------------- charts state ----------------- */
+  let accuracyChart, performanceChart, workerChart;
+  const chartData = {
+    timestamps: [],
+    accuracyPct: [],
+    facesDetected: [],
+    processingTimes: [],
+    confidencePct: []
+  };
+  
+  /* ----------------- charts init ----------------- */
+  function initializeCharts() {
+    const accCtx = document.getElementById('accuracyChart').getContext('2d');
+    accuracyChart = new Chart(accCtx, {
+      type: 'line',
+      data: { labels: [], datasets: [{ label: 'Recognition Accuracy (%)', data: [], tension: 0.35, fill: true }] },
+      options: {
+        responsive: true,
+        scales: {
+          y: { beginAtZero: true, max: 100, title: { display: true, text: 'Accuracy (%)' } },
+          x: { title: { display: true, text: 'Time' } }
+        }
+      }
+    });
+  
+    const perfCtx = document.getElementById('performanceChart').getContext('2d');
+    performanceChart = new Chart(perfCtx, {
+      type: 'line',
+      data: {
+        labels: [],
+        datasets: [
+          { label: 'Processing Time (ms)', data: [], yAxisID: 'y', tension: 0.35, fill: true },
+          { label: 'Faces Detected', data: [], yAxisID: 'y1', tension: 0.35, fill: false }
+        ]
+      },
+      options: {
+        responsive: true,
+        scales: {
+          y: { type: 'linear', position: 'left', title: { display: true, text: 'Time (ms)' } },
+          y1: { type: 'linear', position: 'right', grid: { drawOnChartArea: false }, title: { display: true, text: 'Faces' } },
+          x: { title: { display: true, text: 'Time' } }
+        }
+      }
+    });
+  
+    const workerCtx = document.getElementById('workerChart').getContext('2d');
+    workerChart = new Chart(workerCtx, {
+      type: 'bar',
+      data: {
+        labels: [],
+        datasets: [
+          { label: 'Times Seen', data: [] },
+          { label: 'Times Recognized', data: [] }
+        ]
+      },
+      options: {
+        responsive: true,
+        scales: {
+          y: { beginAtZero: true, title: { display: true, text: 'Count' } },
+          x: { title: { display: true, text: 'Workers' } }
+        }
+      }
+    });
+  }
+  
+  /* ----------------- charts update ----------------- */
+  function updateCharts(data) {
+    const now = new Date();
+    const cum = data.cum || {};
+    const inst = data.inst || {};
+    const t = (inst.timing_ms || {});
+  
+    chartData.timestamps.push(now);
+    chartData.accuracyPct.push((cum.recognition_rate || 0) * 100);
+    chartData.facesDetected.push(inst.faces || 0);
+    chartData.processingTimes.push(t.total || 0);
+    chartData.confidencePct.push((cum.avg_conf_overall || 0) * 100);
+  
+    const maxPoints = 60;
+    if (chartData.timestamps.length > maxPoints) {
+      chartData.timestamps.shift();
+      chartData.accuracyPct.shift();
+      chartData.facesDetected.shift();
+      chartData.processingTimes.shift();
+      chartData.confidencePct.shift();
+    }
+  
+    if (accuracyChart) {
+      accuracyChart.data.labels = chartData.timestamps.map(ts => moment(ts).format('HH:mm:ss'));
+      accuracyChart.data.datasets[0].data = chartData.accuracyPct;
+      accuracyChart.update();
+    }
+  
+    if (performanceChart) {
+      performanceChart.data.labels = chartData.timestamps.map(ts => moment(ts).format('HH:mm:ss'));
+      performanceChart.data.datasets[0].data = chartData.processingTimes;
+      performanceChart.data.datasets[1].data = chartData.facesDetected;
+      performanceChart.update();
+    }
+  
+    if (workerChart && cum.per_worker) {
+      const workers = Object.entries(cum.per_worker);
+      workers.sort((a, b) => (b[1]?.seen || 0) - (a[1]?.seen || 0));
+      const top = workers.slice(0, 10);
+      workerChart.data.labels = top.map(([name]) => name);
+      workerChart.data.datasets[0].data = top.map(([, d]) => d.seen || 0);
+      workerChart.data.datasets[1].data = top.map(([, d]) => d.recognized || 0);
+      workerChart.update();
+    }
+  }
+  
+  /* ----------------- data fetch & DOM bind ----------------- */
+  function fetchStats() {
+    fetch("{{ stats_url }}", { cache: 'no-store' })
+      .then(r => r.json())
+      .then(data => {
+        if (!data || !data.inst) return;
+  
+        // Header meta
+        const started = data.since ? new Date(data.since * 1000).toLocaleString() : "–";
+        document.getElementById("session-meta").innerText =
+          `Session: ${data.session_id || "–"} • Started: ${started} • Frame: ${data.frame_idx || 0}`;
+  
+        // Instant
+        const inst = data.inst || {};
+        document.getElementById("inst-faces").innerText = inst.faces || 0;
+        document.getElementById("inst-rec").innerText = inst.recognized || 0;
+        document.getElementById("inst-unk").innerText = inst.unknown || 0;
+        document.getElementById("inst-workers").innerText =
+          (inst.recognized_workers && inst.recognized_workers.length)
+            ? inst.recognized_workers.join(", ")
+            : "–";
+  
+        const t = inst.timing_ms || {};
+        document.getElementById("t-arc").innerText = t.arcface ?? "–";
+        document.getElementById("t-yolo").innerText = t.yolo ?? "–";
+        document.getElementById("t-total").innerText = t.total ?? "–";
+  
+        // YOLO (instant)
+        const yoloUl = document.getElementById("yolo-stats");
+        yoloUl.innerHTML = "";
+        const y = inst.yolo_detections || {};
+        for (const [cls, count] of Object.entries(y)) {
+          const li = document.createElement("li");
+          li.textContent = `${cls}: ${count}`;
+          yoloUl.appendChild(li);
+        }
+  
+        // Cumulative
+        const cum = data.cum || {};
+        document.getElementById("cum-frames").innerText = cum.frames || 0;
+        document.getElementById("cum-faces").innerText = cum.faces_total || 0;
+        document.getElementById("cum-rec").innerText = cum.recognized_total || 0;
+        document.getElementById("cum-unk").innerText = cum.unknown_total || 0;
+        document.getElementById("cum-rate").innerText = fmt(cum.recognition_rate, 4);
+        document.getElementById("cum-conf").innerText = fmt(cum.avg_conf_overall, 4);
+  
+        // Per-worker table
+        const pw = (cum.per_worker) ? Object.entries(cum.per_worker) : [];
+        const tbody = document.querySelector("#per-worker tbody");
+        tbody.innerHTML = "";
+        pw.sort((a, b) => (b[1]?.seen || 0) - (a[1]?.seen || 0)).forEach(([name, d]) => {
+          const tr = document.createElement("tr");
+          tr.innerHTML = `
+            <td style="padding:4px; border-bottom:1px solid #f3f3f3;">${name}</td>
+            <td style="padding:4px; text-align:right; border-bottom:1px solid #f3f3f3;">${d.seen || 0}</td>
+            <td style="padding:4px; text-align:right; border-bottom:1px solid #f3f3f3;">${d.recognized || 0}</td>
+            <td style="padding:4px; text-align:right; border-bottom:1px solid #f3f3f3;">${fmt(d.recognition_rate ?? 0, 4)}</td>
+            <td style="padding:4px; text-align:right; border-bottom:1px solid #f3f3f3;">${fmt(d.avg_conf ?? 0, 4)}</td>
+          `;
+          tbody.appendChild(tr);
+        });
+  
+        // CSV link (local path)
+        if (data.log_csv) {
+          const a = document.getElementById("csv-link");
+          a.textContent = "Open CSV log";
+          a.href = "file://" + data.log_csv;   // for local dev; expose with a Django view for prod
+          a.style.display = "inline-block";
+        } else {
+          document.getElementById("csv-link").style.display = "none";
+        }
+  
+        // Charts
+        updateCharts(data);
+      })
+      .catch(() => {});
+  }
+  
+  /* ----------------- stream controls ----------------- */
+  (function setupControls() {
+    const stream = document.getElementById('stream');
+    const overlay = document.getElementById('overlay');
+    const streamUrlEl = document.getElementById('streamUrl');
+  
+    const sel = document.getElementById('sourceSel');
+    const custom = document.getElementById('customPath');
+    const th = document.getElementById('threshold');
+    const thVal = document.getElementById('thVal');
+  
+    const defaultCamera = "{{ camera_url }}";
+    const defaultFile = "{{ file_url }}";
+  
+    function showOverlay(v) { overlay.style.display = v ? 'flex' : 'none'; }
+  
+    function buildUrl() {
+      const threshold = Number(th.value || 0.35);
+      let base = "";
+      if (sel.value === 'camera') {
+        base = "{{ camera_url|escapejs }}";
+      } else if (sel.value === 'file') {
+        base = "{{ file_url|escapejs }}";
+        if (!base) {
+          alert("No demo file available. Choose Custom path or Camera.");
+          sel.value = 'camera';
+          base = "{{ camera_url|escapejs }}";
+        }
+      } else {
+        const p = (custom.value || "").trim();
+        if (!p) {
+          alert("Enter a custom file path.");
+          return null;
+        }
+        base = "{% url 'video_feed' %}?" + qs({ source: p });
+      }
+  
+      // if base already has query (?source=...), just append &threshold
+      let url = base;
+      url += (base.includes("?") ? "&" : "?") + qs({ threshold });
+      // small cache-buster so browser fully reloads the stream
+      url += "&v=" + Date.now();
+      return url;
+    }
+  
+    sel.addEventListener('change', () => {
+      custom.style.display = (sel.value === 'custom') ? 'inline-block' : 'none';
+    });
+  
+    th.addEventListener('input', () => thVal.textContent = Number(th.value).toFixed(2));
+  
+    document.getElementById('applyBtn').addEventListener('click', () => {
+      const url = buildUrl();
+      if (!url) return;
+      showOverlay(true);
+      stream.onload = () => showOverlay(false);
+      stream.onerror = () => showOverlay(false);
+      stream.src = url;
+      streamUrlEl.textContent = url;
+    });
+  
+    // initial display values
+    thVal.textContent = Number(th.value).toFixed(2);
+  })();
+  
+  /* ----------------- boot ----------------- */
+  document.addEventListener('DOMContentLoaded', function() {
+    initializeCharts();
+    fetchStats();                  // immediate
+    setInterval(fetchStats, 1000); // every second
+  });
+  </script>
+  

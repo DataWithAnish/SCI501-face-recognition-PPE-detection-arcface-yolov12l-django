@@ -1,0 +1,30 @@
+{
+  "session_id": "683bae58",
+  "started_iso": "2025-09-21T01:55:02.405863",
+  "models": {
+    "yolo_model_path": "/Users/anishkumarshrestha/Desktop/PIE detector/SCI501/recognition/best.pt",
+    "arcface": {
+      "name": "buffalo_l",
+      "det_size": [
+        640,
+        640
+      ],
+      "det_thresh": 0.5,
+      "gpu": false
+    }
+  },
+  "performance_knobs": {
+    "DETECT_EVERY_N": 2,
+    "EMBED_EVERY_M": 9999,
+    "YOLO_EVERY_N": 8,
+    "TRACKER_TYPE": "CSRT",
+    "MIN_FACE_SIZE": 36,
+    "NMS_IOU_MATCH": 0.5,
+    "FACE_DET_MIN_SCORE": 0.6,
+    "FACE_DET_NMS_IOU": 0.45,
+    "TRACK_DEDUP_IOU": 0.55,
+    "TRACK_MAX_MISSED": 1,
+    "UNKNOWN_SUPPRESS_IOU": 0.9,
+    "TOPK_TO_LOG": 3
+  }
+}

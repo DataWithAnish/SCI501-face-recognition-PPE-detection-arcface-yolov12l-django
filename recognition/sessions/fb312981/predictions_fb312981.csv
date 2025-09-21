@@ -1,0 +1,2 @@
+ts,session_id,frame_idx,track_id,x1,y1,x2,y2,predicted,confidence,threshold,decision,top1_name,top1_sim,top2_name,top2_sim,top3_name,top3_sim
+1758349906.974591,fb312981,0,1,919,507,1337,1064,anish,0.461795,0.35,recognized,anish,0.461795,worker1,0.042733,Fareed Ud Din sir,-0.080739
