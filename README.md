@@ -227,9 +227,4 @@ If you use this work please cite
 Acknowledgements
 University of New England for support and computing. Thanks to supervisor Fareed Ud Din and unit coordinator Michelle Taylor for guidance and feedback.
 
----
 
-## License
-
-Add your code license here (e.g., MIT).
-Dataset follows its own license CC BY 4.0.
